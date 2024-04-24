@@ -6,24 +6,21 @@
 
 ![-----](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
+## Description :
+Project Title: Zappel-Phillip Learning Companion
 
-Project Description : Zappel-Phillip is the first neurodivergent character ever mention in literature. Its was a young boy judged for being too distrastracted and lazy.
-We have token this inspiration to create an application for neurodivergent and neurotypical people to learn how to learn, by implementing functionalities from pedagogical methods.
-Features like :
-Chronometer or recall to structure working cycles.
-Creating folders with videos, images, notes and sound recordings that you can jump in and out ad notebooks.
-Playful learning curves implementing possitive learning.
+Introduction:
+Zappel-Phillip, the first neurodivergent character ever mentioned in literature, was portrayed as a young boy judged for being too distracted and lazy. Drawing inspiration from this character, we embarked on creating an application tailored for both neurodivergent and neurotypical individuals. Our aim is to facilitate the process of learning how to learn by incorporating pedagogical methods into our platform.
 
+Features:
 
-4. To implement : V2. Implementation of a DB to be able to execute CRUD operations.
+Structured Work Cycles: Utilize a chronometer or recall function to organize and manage working sessions effectively.
+Customizable Folders: Create folders comprising videos, images, notes, and sound recordings, enabling users to seamlessly navigate through their materials.
+Engaging Learning Curves: Implement playful learning curves designed to foster positive learning experiences.
+Implementation:
 
-5. Credits : This is a school project created within the Apple Foundation Program in Paris France.
+Version 2 (V2): Incorporate a database to support Create, Read, Update, and Delete (CRUD) operations, enhancing the application's functionality and usability.
 
-6. Project Description : Zappel-Phillip is the first neurodivergent character ever mention in literature. Its was a young boy judged for being too distrastracted and lazy. We have token this inspiration to create an application for neurodivergent and neurotypical people to learn how to learn, by implementing functionalities from pedagogical methods. Features like : Chronometer or recall to structure working cycles. Creating folders with videos, images, notes and sound recordings that you can jump in and out ad notebooks. Playful learning curves implementing possitive learning.
-
-To implement : V2. Implementation of a DB to be able to execute CRUD operations.
-
-School project. Concept an developement within the Apple Foundation Program.
 
 ## Contributors
 
