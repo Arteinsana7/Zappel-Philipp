@@ -1,6 +1,6 @@
 # ZAPPEL-PHILLIP 
 
-*où apprendre à apprendre***.
+*Or learn how to learn*
 
 
 
